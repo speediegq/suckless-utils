@@ -38,8 +38,8 @@ or
 7. Start it and done! 
 
 ## Current bugs
-- ~~Taskbar not working properly~~ (fixed in commit [e9015f2](https://github.com/Lucas-mother3/suckless-utils/commit/e9015f2d2a09ef66f1c9e188b277c89d23635195) & [7085f9](https://github.com/Lucas-mother3/suckless-utils/commit/7085f97d80fc203d6f54d0209af07007c0347880)). Thanks, [Speedie](https://speedie.gq)!
-- Unhiding a hidden window (using the show/hide function) and if it's the only program running, crashes dwm
+- ~~Taskbar not working properly~~ (fixed in commit [e9015f2](https://github.com/Lucas-mother3/suckless-utils/commit/e9015f2d2a09ef66f1c9e188b277c89d23635195) & [7085f9](https://github.com/Lucas-mother3/suckless-utils/commit/7085f97d80fc203d6f54d0209af07007c0347880)). Thanks, [Speedie](https://speedie.site)!
+- ~~Unhiding a hidden window (using the show/hide function) and if it's the only program running, crashes dwm~~ (fixed in commit [82df702](https://github.com/Lucas-mother3/suckless-utils/commit/82df702e419dd94c4dff7216880e2e1c33bcc747))
 - Alt-tab crashes dwm altogther (idk man)
 
 ## Patching even further 
